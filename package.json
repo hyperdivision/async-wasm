@@ -1,6 +1,6 @@
 {
   "name": "async-wasm",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Add asynchronous external JS calls to your WASM that behave as sync WASM functions",
   "main": "index.js",
   "dependencies": {},
